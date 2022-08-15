@@ -9,6 +9,7 @@
 ## 🎈 Things I code With:
 - Javascript
 - TypeSctipt
+- D3.js
 - Java
 - Spring
 - SpringBoot
