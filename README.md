@@ -1,23 +1,18 @@
-<h1> 🎈 Hi! Nice to see You. </h1>
-<hr/>
+<h1>  Hi! Nice to see You. <img src='https://qpluspicture.oss-cn-beijing.aliyuncs.com/6LjjQA/Hi.gif' alt='Hi' width="24"/></h1>
+
 <p>Selcome to my Page!</p>
+<p>I'm Yoo, Fullstack developer from South Korea</p>
 
-<h2>Things I code With!</h2>
-<hr/>
+<img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-
-
-<!--
-**edel1212/edel1212** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+[![Gmail Badge](https://img.shields.io/badge/-dbwjdghman93@gmain.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbwjdghman93@gmain.com)](mailto:dbwjdghman93@gmain.com)
+## 🎈 Things I code With:
+- Javascript
+- TypeSctipt
+- Java
+- Spring
+- SpringBoot
+- MongoDB
+- MySQL, MariaDB
+- Oracle
+- Linux
