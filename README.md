@@ -1,10 +1,9 @@
-### 🎈 Hi there I'm Yoo🎈
-
+<h1> 🎈 Hi! Nice to see You. </h1>
 <hr/>
+<p>Selcome to my Page!</p>
 
-Selcome to my Page!
-
-Things I code With
+<h2>Things I code With!</h2>
+<hr/>
 
 
 
