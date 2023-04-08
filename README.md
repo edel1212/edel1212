@@ -5,14 +5,12 @@
 
 <img align='right' src='https://media.giphy.com/media/bcKmIWkUMCjVm/giphy.gif' width='200"'>
 
-[![Gmail Badge](https://img.shields.io/badge/-dbwjdghman93@gmain.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbwjdghman93@gmain.com)](mailto:dbwjdghman93@gmain.com)
+[![Gmail Badge](https://img.shields.io/badge/-dbwjdghman93@gmain.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbwjdghman93@gmain.com)](mailto:dbwjdghman93@gmail.com)
 ## 🎈 Things I code With:
-- Javascript
-- TypeSctipt
+- Javascript & TypeSctipt
 - D3.js
 - Java
-- Spring
-- SpringBoot
+- Spring & Boot
 - MongoDB
 - MySQL, MariaDB
 - Oracle
