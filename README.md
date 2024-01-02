@@ -8,9 +8,10 @@
 [![Gmail Badge](https://img.shields.io/badge/-dbwjdghman93@gmail.com-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:dbwjdghman93@gmail.com)](mailto:dbwjdghman93@gmail.com)
 ## 🎈 Things I code With:
 - Javascript & TypeSctipt
-- Java
 - Spring & Boot
 - MongoDB
 - MySQL, MariaDB, Oracle
 - Docker
 - React & NextJs
+- SoketIO
+- WebRTC
